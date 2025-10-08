@@ -1,0 +1,44 @@
+.upperEdge
+{
+display:block;
+background-color:Black;
+color:white;
+font-family:'Times New Roman';
+opacity:80%;
+
+}
+
+body {
+background-color:rgb(152, 252, 182);
+color:white;
+hover:cursor:pointer;
+		
+}	
+
+.footer 
+{
+display:block;
+background-color:Black;
+color:white;
+font-family:'Times New Roman';
+
+{
+
+.upperEdge.hover{
+opacity:30%;
+cursor:pointer;
+}
+
+
+
+
+.logo 
+{
+border-radius:100px;
+display:inline-block;
+width:6%;
+height:6%;
+position:sticky;
+right:7px;
+
+}
