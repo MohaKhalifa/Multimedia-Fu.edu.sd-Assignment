@@ -6,10 +6,16 @@
 		<script src="index.js"> </script>
 	</head>
 	<body>
-		<div class="upperEdge"> Multimedia Elements
+		<div class="upperEdge">
 			<i>Multimedia Assingment</i>	
 			<a href="https://fu.edu.sd"><b>The Futre University</b><a/>
 					<img src="fu_logo.png" alt="University_Logo" class="logo"> 
+		</div>
+
+
+
+
+		<div class="footer">
 		</div>
 	</body>
 </html>
