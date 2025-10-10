@@ -16,7 +16,23 @@ opacity:30%;
 cursor:pointer;
 }
 
+.display {
 
+display:block;
+text-align:left;
+background-color:lightblue;
+	
+
+
+}
+.display text {
+
+text-shadow: 1px 1px purple;
+
+
+
+
+}
 
 body {
 background-color:rgb(152, 252, 182);
