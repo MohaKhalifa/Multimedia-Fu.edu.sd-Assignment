@@ -15,7 +15,11 @@ display:block;
 text-align:left;
 background-color:lightblue;
 text-shadow: purple 3px 3px;
+position:fixed;
 
+left:50%;
+top:50%;
+translate: -50% -50%;
 }
 
 
@@ -35,8 +39,16 @@ color:white;
 font-family:'Times New Roman';
 margin-top:100x;
 align-content: center;
+position:fixed;
+bottom:0;
+
+right:50%;
+left:50%;
+
+
 
 }
+
 
 
 
@@ -50,3 +62,5 @@ position:fixed;
 left:0;
 bottom:0;
 }
+
+/* fixed position aka UFW set directions with how close you want them to be-->*/
