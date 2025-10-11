@@ -33,24 +33,43 @@ color:white;
 
 .footer 
 {
-display:block;
-background-color:Black;
+display:inline-block;
 color:white;
 font-family:'Times New Roman';
-margin-top:100x;
 align-content: center;
-position:fixed;
+position:absolute;
 bottom:0;
 
-right:50%;
-left:50%;
-
-
-
+right:50%
 }
 
+.doIt
+{
+    animation-duration: 4s;
+    animation-name: slide-in;
+    animation-direction: left;
 
 
+    text-shadow: black 3px 3px;
+    color: white;
+
+}
+@keyframes slide-in {
+from {
+translate: 150vw 0;
+scale: 200% 1;
+
+}
+to 
+{
+   
+    
+
+    translate: 0 0;
+    scale:100%;
+}
+    
+}
 
 
 
