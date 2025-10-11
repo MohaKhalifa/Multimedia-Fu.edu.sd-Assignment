@@ -9,33 +9,17 @@ text-align:center;
 
 
 }
-
-
-.upperEdge.hover{
-opacity:30%;
-cursor:pointer;
-}
-
 .display {
 
 display:block;
 text-align:left;
 background-color:lightblue;
-
-
-
-}
-.display text {
-
-text-shadow: 1px 1px purple;
-}
-.display audio {
-display:block;
-text-align: center;
-cursor:pointer;
-
+text-shadow: purple 3px 3px;
 
 }
+
+
+
 body {
 background-color:rgb(152, 252, 182);
 color:white;
@@ -49,21 +33,20 @@ display:block;
 background-color:Black;
 color:white;
 font-family:'Times New Roman';
+margin-top:100x;
+align-content: center;
 
 }
 
 
 
+
+
 .logo 
 {
-border-radius:100px;
-border:solid 0.2px;
-border-color:black;
-display:inline-block;
-width:4%;
-height:4%;
-position:sticky;
-right:7px;
-position:relative;
-padding-right:8px;
+width:100px;
+height:100px;
+position:fixed;
+left:0;
+bottom:0;
 }
