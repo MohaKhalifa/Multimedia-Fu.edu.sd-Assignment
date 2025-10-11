@@ -21,23 +21,25 @@ cursor:pointer;
 display:block;
 text-align:left;
 background-color:lightblue;
-	
+
 
 
 }
 .display text {
 
 text-shadow: 1px 1px purple;
-
-
+}
+.display audio {
+display:block;
+text-align: center;
+cursor:pointer;
 
 
 }
-
 body {
 background-color:rgb(152, 252, 182);
 color:white;
-hover:cursor:pointer;
+
 		
 }	
 
